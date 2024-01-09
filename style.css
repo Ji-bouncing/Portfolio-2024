@@ -174,14 +174,14 @@ html{
     font-size:32%;
 }
 .rhetoricQuestion{
-    font-size:1.9rem;
+    font-size:1rem;
     font-weight:700;
 }
 main{
     height:100vh;
 }
 .meetMeUp{
-    font-size:2rem;
+    font-size:1.1rem;
     width:30%;
     font-weight: bold;
 }
@@ -191,7 +191,7 @@ main{
         height:170vh;
     }
     html{
-        font-size:125%;
+        font-size:120%;
     }
     .meetMeUp{
         width:40%;
