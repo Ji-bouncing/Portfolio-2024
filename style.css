@@ -188,7 +188,7 @@ main{
 }
 @media all and (min-width:376px) and (max-width:1024px){
     main{
-        height:90vh;
+        height:120vh;
     }
     html{
         font-size:62.5%;
