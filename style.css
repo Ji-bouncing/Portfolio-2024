@@ -17,8 +17,8 @@ ul{
     padding-left:30%;
 }
 header ul li{
-    margin-left:6rem;
-    font-size:5rem;
+    margin-left:5rem;
+    font-size:4rem; 
     padding:4% 0;
 }
 header ul li a{
@@ -157,7 +157,7 @@ section.containerSection section img{
     transition:2s;
 }
 .aboutSection{
-    height:275vh;
+    height:75vh !important;
 }
 .aboutSection a{
     margin-left:10%;
