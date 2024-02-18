@@ -163,7 +163,7 @@ section.containerSection section img{
     margin-left:10%;
     margin-bottom: 3%;
     cursor: pointer;
-    width:8%;
+    width:38% !important;
     padding:2% 3%;
     text-transform: uppercase;
     text-decoration: none;
