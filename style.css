@@ -214,7 +214,7 @@ main{
 .meetMeUp{
     font-size:1.1rem;
     width:30%;
-    font-weight: bold;
+    font-weight: 700;
 }
 }
 @media all and (min-width:376px) and (max-width:1024px){
